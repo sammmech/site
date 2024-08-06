@@ -1,0 +1,12 @@
+body{
+    background: rgba(0, 0, 0, 0.8);
+    backdrop-filter: blur(10px);
+}
+
+img{
+    margin-top: 20px;
+    margin-left:180px ;
+    width: 50%
+  
+
+}
